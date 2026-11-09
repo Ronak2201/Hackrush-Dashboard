@@ -1,0 +1,6 @@
+{
+  "name": "HACKRUSH 2026 — Innovation Command Center",
+  "description": "Premium futuristic event dashboard for HackRush 2026, the flagship online hackathon organized by Tech4Hack, IGDTUW.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
